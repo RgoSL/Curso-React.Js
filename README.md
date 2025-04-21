@@ -8,7 +8,7 @@ Este repositório contém as atividades e projetos desenvolvidos durante a _Tril
 
 ### ☑️ Lista de Tarefas
 Durante o curso foi desenvolvido um programa que serve como uma lista de tarefas, adicionando uma lista <ul>, com algumas opções de interação, como: edição, criação e remoção de itens da lista.
-- ☑️ [Lista de Tarefas](#) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+- ☑️ [Lista de Tarefas](https://github.com/RgoSL/Curso-React.Js.git) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
 <!-- SESSÃO DE REFERÊNCIAS ⬇️ -->

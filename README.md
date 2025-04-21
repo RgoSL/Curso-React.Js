@@ -6,19 +6,9 @@ Este repositório contém as atividades e projetos desenvolvidos durante a _Tril
 <!-- SESSÃO DO ÍNDICE DE BRANCHS ⬇️ -->
 ## 👨🏻‍💻 Atividades Desenvolvidas :
 
-### 📌 Assunto Principal da Atividade
-Descrição sobre o código
-- 📌 [Titulo da Atividade](#endereçamento-da-branch) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
-<br>
-
-  ### 📌 Assunto Principal da Atividade
-Descrição sobre o código
-- 📌 [Titulo da Atividade](#endereçamento-da-branch) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
-<br>
-
- ### 📌 Assunto Principal da Atividade
-Descrição sobre o código
-- 📌 [Titulo da Atividade](#endereçamento-da-branch) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+### ☑️ Lista de Tarefas
+Durante o curso foi desenvolvido um programa que serve como uma lista de tarefas, adicionando uma lista <ul>, com algumas opções de interação, como: edição, criação e remoção de itens da lista.
+- ☑️ [Lista de Tarefas](#) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
 <!-- SESSÃO DE REFERÊNCIAS ⬇️ -->
@@ -28,4 +18,5 @@ Descrição sobre o código
 
 - 📘 [Documentação Oficial do React.js](https://reactjs.org/docs/getting-started.html)  
 - 🧾 [React.js Cheatsheet — Cola rápida com tudo que importa](https://reactcheatsheet.com/)  
-- 🎓 [W3Schools — Tutorial interativo de React](https://www.w3schools.com/react/)
+- 🎓 [Plataforma TIC em Trilhas](https://ticemtrilhas.org.br/)
+

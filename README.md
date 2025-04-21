@@ -1,12 +1,22 @@
-# React + Vite
+# 👨🏼‍🎓 Plataforma TIC – Trilha de React.JS <img src="https://skillicons.dev/icons?i=react" align="center" /> 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém as atividades e projetos desenvolvidos durante a _Trilha de React.JS_ da _Plataforma TIC_, em parceria com a empresa _Venturus_. O objetivo é proporcionar aprendizado prático e desenvolver habilidades no uso do _React.js_.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<!-- SESSÃO DO ÍNDICE DE BRANCHS ⬇️ -->
+## 👨🏻‍💻 Atividades Desenvolvidas :
 
-## Expanding the ESLint configuration
+### ☑️ Lista de Tarefas
+Durante o curso foi desenvolvido um programa que serve como uma lista de tarefas, adicionando uma lista <ul>, com algumas opções de interação, como: edição, criação e remoção de itens da lista.
+- ☑️ [Lista de Tarefas](https://github.com/RgoSL/Curso-React.Js/tree/master) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+<br>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<!-- SESSÃO DE REFERÊNCIAS ⬇️ -->
+---
+
+### 📚 Recursos Úteis
+
+- 📘 [Documentação Oficial do React.js](https://reactjs.org/docs/getting-started.html)  
+- 🧾 [React.js Cheatsheet — Cola rápida com tudo que importa](https://reactcheatsheet.com/)  
+- 🎓 [Plataforma TIC em Trilhas](https://ticemtrilhas.org.br/)
+
